@@ -8,7 +8,7 @@ const config: Config = {
   title: 'Bakerfi Docs',
   tagline: 'Bakerfi Docs',
   favicon: 'img/favicon.ico',
-  url: 'https://docs.bakerfi.com',
+  url: 'https://docs.bakerfi.xyz',
   baseUrl: '/',
 
   // GitHub pages deployment config.
