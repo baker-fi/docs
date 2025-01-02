@@ -53,7 +53,7 @@ const config: Config = {
           type: 'docSidebar',
           sidebarId: 'tutorialSidebar',
           position: 'left',
-          label: 'Tutorial',
+          label: 'Documentation',
         },
         {to: 'https://blog.bakerfi.com', label: 'Bakerfi Blog', position: 'left'},
         {
