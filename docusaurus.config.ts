@@ -66,15 +66,7 @@ const config: Config = {
     footer: {
       style: 'dark',
       links: [
-        {
-          title: 'Docs',
-          items: [
-            {
-              label: 'Getting Started',
-              to: '/docs/intro',
-            },
-          ],
-        },
+
         {
           title: 'Community',
           items: [
@@ -101,7 +93,7 @@ const config: Config = {
           items: [
             {
               label: 'Blog',
-              to: '/blog',
+              to: 'https://blog.bakerfi.com',
             },
             {
               label: 'GitHub',
