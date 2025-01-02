@@ -5,7 +5,7 @@ slug: /
 
 # Overview
 
-***Maximizing DeFi Yields through AI-Powered Strategy Management***
+***Maximizing DeFi Yields through AI Agents Management***
 
 ## The Challenge
 
