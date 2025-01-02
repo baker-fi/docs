@@ -3,7 +3,7 @@ sidebar_position: 1
 slug: /
 ---
 
-# BakerFi Documentation
+# Overview
 
 ***Unlocking Superior Yields through Diversified & Curated DeFi Strategies***
 
