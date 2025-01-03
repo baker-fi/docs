@@ -2,7 +2,7 @@
 sidebar_position: 2
 ---
 
-# Chefs 🧑‍🍳 (BakerFi Agents)
+# Chefs 🧑‍🍳 (AI Agents)
 
 
 *Comming Soon...*
