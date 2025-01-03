@@ -26,11 +26,7 @@ By participating in staking, users contribute to the protocol's growth while ear
 
 ## Distribution
 
-- **Private Sale Rounds:** 90M BKR (18%)
-- **Team:** 75M BKR (15%)
-- **Advisors & Partners:** 25M BKR (5%)
-- **Reserves:** 60M BKR (12%)
-- **Community Incentives:** 250M BKR (50%)
+![Tokenomics](/img/pie-chart.png)
 
 
 ## Governance
