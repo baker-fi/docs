@@ -22,6 +22,9 @@ const config: Config = {
     defaultLocale: 'en',
     locales: ['en'],
   },
+  markdown: {
+    mermaid: true,
+  },
   presets: [
     [
       'classic',
@@ -121,6 +124,7 @@ const config: Config = {
       crossorigin: 'anonymous',
     },
   ],
+  themes: ['@docusaurus/theme-mermaid'],
 };
 
 export default config;

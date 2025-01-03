@@ -8,6 +8,14 @@ Our innovative Vault incentives system rewards users based on the **Total Value 
 
 Certain vaults offer **boosted dBKR distribution** over a specific time window, amplifying your rewards and incentivizing strategic participation on promoted vaults. The boost on certain vaults are controlled by the DAO members and could change over time to promote a vault during its deployment cycle.
 
+```mermaid
+flowchart TD
+    U[User] -->|Deposit Asset| V1(Vault)
+    V1(Vault) --> |Receives dBKR| U[User]
+    U[User] -->|dBKR + ETH| dBKR(dBKR Contract)
+    dBKR(dBKR Contract) --> |Buys BKR at Discount| U[User]
+```
+
 ## What is dBKR? 🤔
 **dBKR** is a derivative token  that unlocks exclusive opportunities to purchase **BKR** at a discount. This system not only enhances your yield-earning potential but also provides additional value and flexibility in maximizing your rewards within our ecosystem.
 

@@ -6,8 +6,17 @@ sidebar_position: 1
 
 The protocol implements a **modular and extensible architecture** designed to optimize DeFi investments through AI-driven automation. At its core, the system consists of smart contract vaults that manage assets, **AI Agents (Chefs)** that make strategic decisions, and various supporting components that enable seamless interaction and execution of investment strategies on our network of vaults on behalf of the users.
 
-...Diagram to be included...
-
+```mermaid
+flowchart TD
+    U[User] -->|Deposit/Withdraw Assets| R(Vault Router)
+    R -->|Deposit Asset| V[Vault]
+    Oracles <-->|Data| Chef[Vault]
+    Chef(Chef AI Agent) -->|Manages| V[Vault]
+    V --> |Deploy| E(Strategy A)
+    V --> |Deploy| F(Strategy B)
+    V --> |Deploy| G(Strategy C)
+    V --> |Reeives dBKR| U
+```
 
 ## Key Components
 
