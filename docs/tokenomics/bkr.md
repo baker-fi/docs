@@ -28,7 +28,6 @@ By participating in staking, users contribute to the protocol's growth while ear
 
 ![Tokenomics](/img/pie-chart.png)
 
-
 ## Governance
 
 The **BKR** token also serves as the primary instrument for community-driven decision-making and consensus-building within our protocol. **BakerFi DAO** decides on BakerFi’s key strategy parameters (e.g. fees, risk parameters) and executes BakerFi protocol upgrades to enhance the protocol operation or mitigate found vulnerabilities.
