@@ -5,7 +5,9 @@ slug: /
 
 # Overview
 
-***Unlocking DeFi Yields with AI-Driven Vault Management***
+**BakerFi** -*Unlocking DeFi Yields with AI-Driven Vault Management*
+
+![BakerFi Logo](/img/baker.png)
 
 ## The Status Quo 📊
 
