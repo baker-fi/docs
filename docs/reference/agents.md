@@ -6,8 +6,9 @@ sidebar_position: 2
 
 ## Evolutions
 
-### RoboChef Stratus(bk0)
+### 0️⃣ Chef Stratus(bk0)
 
+:::info
 * **Delivered Date:** Q3 2024
 *  **Status** : Delivered
 * **Capabilities :**
@@ -15,9 +16,11 @@ sidebar_position: 2
   * Monitors Market Conditions
   * Monitors Liquidity
   * Manage Vaults on Strict Predefined Rules
+:::
 
-### RoboChef Lumina (bk1)
+### 1️⃣ Chef Lumina (bk1)
 
+:::info
 * **Status** : 🚧 Under Development
 * **Deliver Date:** Q2 2025
 * **Capabilities :**
@@ -28,10 +31,12 @@ sidebar_position: 2
   * Analyzes Liquidity
   * Analyzes Operation Costs
   * Manage Vaults Dynamically using Fine Tuned LLM Model
+:::
 
 
-### RoboChef Gaia (bk2)
+### 2️⃣ Chef Gaia (bk2)
 
+:::info
 * **Status** : To be developeed
 * **Deliver Date:** Q4 2025
 * **Capabilities :**
@@ -43,4 +48,5 @@ sidebar_position: 2
   * Analyzes Operation Costs
   * Predicts Future Market Conditions
   * Decision making using Reinforcement Learning
+:::
 
