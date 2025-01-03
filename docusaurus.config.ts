@@ -43,9 +43,9 @@ const config: Config = {
     // Replace with your project's social card
     image: 'img/docusaurus-social-card.jpg',
     navbar: {
-      title: 'Bakerfi Docs',
+      title: 'BAKERFI',
       logo: {
-        alt: 'My Site Logo',
+        alt: 'BakerFi Logo',
         src: 'img/logo.svg',
       },
       items: [
@@ -102,7 +102,7 @@ const config: Config = {
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} BakerFi, Inc. Built with Docusaurus.`,
+      copyright: `Made with ❤️ by BakerFi ${new Date().getFullYear()}.`,
     },
     prism: {
       theme: prismThemes.github,
