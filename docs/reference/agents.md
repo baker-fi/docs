@@ -4,7 +4,7 @@ sidebar_position: 2
 
 # Chefs 🧑‍🍳 (AI Agents)
 
-## Chef Versions
+## Evolutions
 
 ### RoboChef Stratus(bk0)
 
