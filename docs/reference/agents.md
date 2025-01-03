@@ -21,6 +21,7 @@ sidebar_position: 2
 * **Status** : 🚧 Under Development
 * **Deliver Date:** Q2 2025
 * **Capabilities :**
+  * Monitors Asset Prices
   * Monitors Historical Data (Trends, Signals)
   * Analyzes Operation Risks
   * Analyzes Market Conditios
@@ -34,6 +35,7 @@ sidebar_position: 2
 * **Status** : To be developeed
 * **Deliver Date:** Q4 2025
 * **Capabilities :**
+  * Monitors Asset Prices
   * Monitors Historical Data (Trends, Signals)
   * Analyzes Operation Risks
   * Analyzes Market Conditios
