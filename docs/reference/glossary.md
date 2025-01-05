@@ -57,3 +57,9 @@ sidebar_position: 4
 - **LLM** - Large Language Model; a type of AI model that can generate human-like text based on input prompts.
 
 - **RAG** - Retrieval-Augmented Generation; a type of AI model that can generate responses using external data sources.
+
+- **Back Testing** - The process of testing a trading strategy or algorithm against historical data to evaluate its performance and potential risks.
+
+- **Forward Testing** - The process of testing a trading strategy or algorithm against live data to evaluate its performance and potential risks.
+
+- **Monte Carlo Simulation** - A statistical method used to estimate the probability of different outcomes in a complex system by simulating the system many times with random inputs.

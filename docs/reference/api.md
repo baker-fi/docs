@@ -19,7 +19,7 @@ Returns the current anual yield for a Vault with slug and chainId for the curren
 **Request**
 
 ```
-GET /vaults/<chain_id>/<slug>/yield
+GET /api/vaults/<chain_id>/<slug>/yield
 ```
 
 **Response**
@@ -34,15 +34,15 @@ GET /vaults/<chain_id>/<slug>/yield
 **Live Examples**
 
 ```bash
-## Mille Feuille Arbitrum
-curl -X GET "https://api.bakerfi.xyz/vaults/42161/mille-feuille/yield"
+## Mille Feuille Arbitrum (Arbitrum)
+curl -X GET https://api-v1.bakerfi.xyz/api/vaults/42161/mille-feuille/yield
 
-## Mille Feuille a La Base
-curl -X GET "https://api.bakerfi.xyz/vaults/8453/mille-feuille/yield"
+## Mille Feuille a La Base (Base)
+curl -X GET https://api-v1.bakerfi.xyz/api/vaults/8453/mille-feuille/yield
 
-## Mille Feuille Classic
-curl -X GET "https://api.bakerfi.xyz/vaults/1/mille-feuille/yield"
+## Mille Feuille Classic (Ethereum Main Net)
+curl -X GET https://api-v1.bakerfi.xyz/api/vaults/1/mille-feuille/yield
 
-## Saphire Tartlette
-curl -X GET "https://api.bakerfi.xyz/vaults/8453/saphire-tartlette/yield"
+## Saphire Tartlette (Base)
+curl -X GET https://api-v1.bakerfi.xyz/api/vaults/8453/sapphire-tartelette/yield
 ```
